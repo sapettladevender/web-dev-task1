@@ -4,7 +4,7 @@
 <title>veritech</title>
 <style>
 body {
-   background-color: grey;
+   background-color: pink;
    
 }
 
@@ -100,13 +100,13 @@ h3 {
 <div class="team-row">
     <div class="team-column">
         <div class="team-member">
-            <img class="team-image" src="file:///D:/veritech/images/t1.webp" alt="Team Member 1">
+            <img class="team-image" src="https://raw.githubusercontent.com/sapettladevender/web-dev-task1/main/images/t1.webp" alt="Team Member 1">
             <p>Founder 1</p>
         </div>
     </div>
     <div class="team-column">
         <div class="team-member">
-            <img class="team-image" src="file:///D:/veritech/images/t1.webp" alt="Team Member 2">
+            <img class="team-image" src="https://raw.githubusercontent.com/sapettladevender/web-dev-task1/main/images/t1.webp" alt="Team Member 2">
             <p>Founder 2</p>
         </div>
     </div>
@@ -114,19 +114,19 @@ h3 {
 <div class="team-row">
     <div class="team-column">
         <div class="team-member">
-            <img class="team-image" src="file:///D:/veritech/images/t1.webp" alt="Team Member 3">
+            <img class="team-image" src="https://raw.githubusercontent.com/sapettladevender/web-dev-task1/main/images/t1.webp" alt="Team Member 3">
             <p>VP, Development & Growth</p>
         </div>
     </div>
     <div class="team-column">
         <div class="team-member">
-            <img class="team-image" src="file:///D:/veritech/images/t1.webp" alt="Team Member 4">
+            <img class="team-image" src="https://raw.githubusercontent.com/sapettladevender/web-dev-task1/main/images/t1.webp" alt="Team Member 4">
             <p>VP, Sales & Marketing</p>
         </div>
     </div>
     <div class="team-column">
         <div class="team-member">
-            <img class="team-image" src="file:///D:/veritech/images/t1.webp" alt="Team Member 5">
+            <img class="team-image" src="https://raw.githubusercontent.com/sapettladevender/web-dev-task1/main/images/t1.webp" alt="Team Member 5">
             <p>VP, Finance & Operation</p>
         </div>
 
@@ -141,25 +141,25 @@ h3 {
 <div class="team-row">
     <div class="team-column">
         <div class="team-member">
-            <img class="team-image" src="file:///D:/veritech/images/t1.webp" alt="Team Member 6">
+            <img class="team-image" src="https://raw.githubusercontent.com/sapettladevender/web-dev-task1/main/images/t1.webp" alt="Team Member 6">
             <p>Team Leads, SE</p>
         </div>
     </div>
     <div class="team-column">
         <div class="team-member">
-            <img class="team-image" src="file:///D:/veritech/images/t1.webp" alt="Team Member 7">
+            <img class="team-image" src="https://raw.githubusercontent.com/sapettladevender/web-dev-task1/main/images/t1.webp" alt="Team Member 7">
             <p>Software Engineeer</p>
         </div>
     </div>
     <div class="team-column">
         <div class="team-member">
-            <img class="team-image" src="file:///D:/veritech/images/t1.webp" alt="Team Member 8">
+            <img class="team-image" src="https://raw.githubusercontent.com/sapettladevender/web-dev-task1/main/images/t1.webp" alt="Team Member 8">
             <p>Software Engineeer</p>
         </div>
     </div>
     <div class="team-column">
         <div class="team-member">
-            <img class="team-image" src="file:///D:/veritech/images/t1.webp" alt="Team Member 9">
+            <img class="team-image" src="https://raw.githubusercontent.com/sapettladevender/web-dev-task1/main/images/t1.webp" alt="Team Member 9">
             <p>Software Engineeer</p>
         </div>
     </div>
@@ -167,19 +167,19 @@ h3 {
 <div class="team-row">
     <div class="team-column">
         <div class="team-member">
-            <img class="team-image" src="file:///D:/veritech/images/t1.webp" alt="Team Member 10">
+            <img class="team-image" src="https://raw.githubusercontent.com/sapettladevender/web-dev-task1/main/images/t1.webp" alt="Team Member 10">
             <p>Software Engineeerp>
         </div>
     </div>
     <div class="team-column">
         <div class="team-member">
-            <img class="team-image" src="file:///D:/veritech/images/t1.webp" alt="Team Member 11">
+            <img class="team-image" src="https://raw.githubusercontent.com/sapettladevender/web-dev-task1/main/images/t1.webp" alt="Team Member 11">
             <p>Software Engineeer</p>
         </div>
     </div>
     <div class="team-column">
         <div class="team-member">
-            <img class="team-image" src="file:///D:/veritech/images/t1.webp" alt="Team Member 12">
+            <img class="team-image" src="https://raw.githubusercontent.com/sapettladevender/web-dev-task1/main/images/t1.webp" alt="Team Member 12">
             <p>Software Engineeer</p>
         </div>
     </div>
@@ -191,25 +191,25 @@ h3 {
 <div class="team-row">
     <div class="team-column">
         <div class="team-member">
-            <img class="team-image" src="file:///D:/veritech/images/t1.webp" alt="Team Member 6">
+            <img class="team-image" src="https://raw.githubusercontent.com/sapettladevender/web-dev-task1/main/images/t1.webp" alt="Team Member 6">
             <p>Team Lead <br> dev </p>
         </div>
     </div>
     <div class="team-column">
         <div class="team-member">
-            <img class="team-image" src="file:///D:/veritech/images/t1.webp" alt="Team Member 7">
+            <img class="team-image" src="https://raw.githubusercontent.com/sapettladevender/web-dev-task1/main/images/t1.webp" alt="Team Member 7">
             <p>Sales Officer</p>
         </div>
     </div>
     <div class="team-column">
         <div class="team-member">
-            <img class="team-image" src="file:///D:/veritech/images/t1.webp" alt="Team Member 8">
+            <img class="team-image" src="https://raw.githubusercontent.com/sapettladevender/web-dev-task1/main/images/t1.webp" alt="Team Member 8">
             <p>Sales Officer</p>
         </div>
     </div>
     <div class="team-column">
         <div class="team-member">
-            <img class="team-image" src="file:///D:/veritech/images/t1.webp" alt="Team Member 9">
+            <img class="team-image" src="https://raw.githubusercontent.com/sapettladevender/web-dev-task1/main/images/t1.webp" alt="Team Member 9">
             <p>Sales Officer</p>
         </div>
     </div>
@@ -217,19 +217,19 @@ h3 {
 <div class="team-row">
     <div class="team-column">
         <div class="team-member">
-            <img class="team-image" src="file:///D:/veritech/images/t1.webp" alt="Team Member 10">
+            <img class="team-image" src="https://raw.githubusercontent.com/sapettladevender/web-dev-task1/main/images/t1.webp" alt="Team Member 10">
             <p>Marketing Officer</p>
         </div>
     </div>
     <div class="team-column">
         <div class="team-member">
-            <img class="team-image" src="file:///D:/veritech/images/t1.webp" alt="Team Member 11">
+            <img class="team-image" src="https://raw.githubusercontent.com/sapettladevender/web-dev-task1/main/images/t1.webp" alt="Team Member 11">
             <p>Marketing Officer</p>
         </div>
     </div>
     <div class="team-column">
         <div class="team-member">
-            <img class="team-image" src="file:///D:/veritech/images/t1.webp" alt="Team Member 12">
+            <img class="team-image" src="https://raw.githubusercontent.com/sapettladevender/web-dev-task1/main/images/t1.webp" alt="Team Member 12">
             <p>Marketing Officer</p>
         </div>
     </div>
